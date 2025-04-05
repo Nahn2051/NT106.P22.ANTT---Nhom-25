@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638794519648028883
-    m_Hash: 4171558048
+      ticks: 638794595799835714
+    m_Hash: 746493876
   m_LockFileStatus:
     m_FilePath: D:/Study/Code/Projects/DA_LTMCB/ExplodingKittens/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638794520283191551
-    m_Hash: 1857906709
+      ticks: 638794595799835714
+    m_Hash: 208708859
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

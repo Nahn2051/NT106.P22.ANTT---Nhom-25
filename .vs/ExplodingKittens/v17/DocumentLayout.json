@@ -7,24 +7,40 @@
       "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|d:\\study\\code\\projects\\da_ltmcb\\explodingkittens\\assets\\scripts\\card script\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card script\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|d:\\study\\code\\projects\\da_ltmcb\\explodingkittens\\assets\\scripts\\cardvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\card script\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card script\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\curveparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\curveparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\card script\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card script\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\horizontalcardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\horizontalcardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\visualcardshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visualcardshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\cardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMP_MaterialManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMP_MaterialManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CardHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CardHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,64 +58,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CardView.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\Card Script\\CardView.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Card Script\\CardView.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\Card Script\\CardView.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Card Script\\CardView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExtensionMethods.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\ExtensionMethods.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:23:50.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T15:07:37.921Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CardData.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\Card Script\\CardData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Card Script\\CardData.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\Card Script\\CardData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Card Script\\CardData.cs",
+              "Title": "CurveParameters.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CurveParameters.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CurveParameters.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CurveParameters.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CurveParameters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:23:50.058Z"
+              "WhenOpened": "2025-04-05T15:06:03.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardVisual.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CardVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardVisual.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CardVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:04:42.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Card.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\Card Script\\Card.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Card Script\\Card.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\Card Script\\Card.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Card Script\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HorizontalCardHolder.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\HorizontalCardHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HorizontalCardHolder.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\HorizontalCardHolder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HorizontalCardHolder.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAvwA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:23:49.571Z"
+              "WhenOpened": "2025-04-05T15:00:56.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T12:23:46.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CardHandler.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CardHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CardHandler.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CardHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CardHandler.cs",
+              "DocumentIndex": 4,
+              "Title": "VisualCardsHandler.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\VisualCardsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VisualCardsHandler.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\VisualCardsHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VisualCardsHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:23:46.331Z"
+              "WhenOpened": "2025-04-05T15:05:54.862Z"
             },
             {
               "$type": "Document",
@@ -109,10 +137,45 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
               "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\Card.cs",
               "RelativeToolTip": "Assets\\Scripts\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDQAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T12:23:41.964Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TMP_MaterialManager.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMP_MaterialManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMP_MaterialManager.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMP_MaterialManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMP_MaterialManager.cs",
+              "ViewState": "AgIAAIcCAAAAAAAAAAAswJgCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:52:31.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Handler.cs",
+              "RelativeDocumentMoniker": "Assets\\Handler.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Handler.cs",
+              "RelativeToolTip": "Assets\\Handler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:55:33.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardHandler.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CardHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardHandler.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\CardHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:23:46.331Z"
             }
           ]
         }
