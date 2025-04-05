@@ -1,9 +1,12 @@
-RenderObjectsPass
+PixelPerfectCamera
 UnityEngine
 Experimental
 Rendering
+CinemachineUniversalPixelPerfect
 Universal
-FullScreenPassRendererFeature
-
-RenderQueueType
-RenderObjects
+Light2D
+Light2DBlendStyle
+Renderer2DData
+CompositeShadowCaster2D
+ShadowCaster2D
+ShadowCasterGroup2D
