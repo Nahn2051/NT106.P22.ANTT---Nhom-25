@@ -1,0 +1,116 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.60f1 (5f63fdee6d95) revision 6251517'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15754 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\2022.3.60f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+49875
+Successfully changed project path to: D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25
+D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [26204]  Target information:
+
+Player connection [26204]  * "[IP] 192.168.137.1 [Port] 0 [Flags] 2 [Guid] 4068867697 [EditorId] 4068867697 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26204]  * "[IP] 192.168.112.1 [Port] 0 [Flags] 2 [Guid] 4068867697 [EditorId] 4068867697 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26204]  * "[IP] 10.0.96.239 [Port] 0 [Flags] 2 [Guid] 4068867697 [EditorId] 4068867697 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26204] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [26204] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 17.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.60f1 (5f63fdee6d95)
+[Subsystems] Discovering subsystems at path D:/2022.3.60f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6600M (ID=0x73ff)
+    Vendor:   ATI
+    VRAM:     8136 MB
+    Driver:   32.0.13031.3015
+Initialize mono
+Mono path[0] = 'D:/2022.3.60f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2022.3.60f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/2022.3.60f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Failed loading assembly D:/2022.3.60f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll reason: Not enough space
+Loading assembly failed: "D:/2022.3.60f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll" reason: Not enough space
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a UNKNOWN while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Managed Stacktrace:
+=================================================================
+=================================================================
+Received signal SIGSEGV
+Obtained 17 stack frames
+0x00007ff7c3cd8208 (Unity) 
+0x00007ff7c3ce6d7c (Unity) 
+0x00007ff7c3cd8921 (Unity) 
+0x00007ff7c3ce2dce (Unity) 
+0x00007ff7c35c7067 (Unity) 
+0x00007ff7c35c5d6a (Unity) 
+0x00007ff7c43c9887 (Unity) 
+0x00007ff7c43c8d81 (Unity) 
+0x00007ff7c43c8733 (Unity) 
+0x00007ff7c43c01e5 (Unity) 
+0x00007ff7c43caec8 (Unity) 
+0x00007ff7c537c576 (Unity) 
+0x00007ff7c5054851 (Unity) 
+0x00007ff7c54e9e85 (Unity) 
+0x00007ff7c68bb8de (Unity) udnSetPath
+0x00007ffff225e8d7 (KERNEL32) 
+0x00007ffff3eb14fc (ntdll) 
+
