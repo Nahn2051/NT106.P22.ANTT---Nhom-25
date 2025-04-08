@@ -3558,9 +3558,11 @@ m_ResolvedPackages:
     - 1.8.17
     - 1.8.18
     - 1.8.19
+    - 1.8.20
     compatible:
     - 1.8.19
-    recommended: 1.8.19
+    - 1.8.20
+    recommended: 1.8.20
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -4994,13 +4996,16 @@ m_ResolvedPackages:
     - 1.1.6
     - 1.1.7
     - 1.1.8
+    - 1.1.9
     - 1.2.0
     - 1.2.1
     - 1.2.2
     - 1.2.3
+    - 1.2.4
     compatible:
     - 1.1.8
-    recommended: 1.1.8
+    - 1.1.9
+    recommended: 1.1.9
     deprecated: []
   dependencies:
   - name: com.unity.2d.common

@@ -15,7 +15,7 @@ D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-49875
+57763
 Successfully changed project path to: D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25
 D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,19 +49,19 @@ D:/LTMCB/DoAn/NT106.P22.ANTT---Nhom-25
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [25224]  Target information:
+Player connection [16796]  Target information:
 
-Player connection [25224]  * "[IP] 192.168.137.1 [Port] 0 [Flags] 2 [Guid] 2323007557 [EditorId] 2323007557 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [16796]  * "[IP] 192.168.137.1 [Port] 0 [Flags] 2 [Guid] 1442538249 [EditorId] 1442538249 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25224]  * "[IP] 192.168.112.1 [Port] 0 [Flags] 2 [Guid] 2323007557 [EditorId] 2323007557 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [16796]  * "[IP] 192.168.112.1 [Port] 0 [Flags] 2 [Guid] 1442538249 [EditorId] 1442538249 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25224]  * "[IP] 10.0.96.239 [Port] 0 [Flags] 2 [Guid] 2323007557 [EditorId] 2323007557 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [16796]  * "[IP] 10.45.47.26 [Port] 0 [Flags] 2 [Guid] 1442538249 [EditorId] 1442538249 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25224] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [25224] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [16796] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16796] Host joined alternative multi-casting on [225.0.0.222:34997]...
 Input System module state changed to: Initialized.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-Refreshing native plugins compatible for Editor in 15.71 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 28.54 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.60f1 (5f63fdee6d95)
 [Subsystems] Discovering subsystems at path D:/2022.3.60f1/Editor/Data/Resources/UnitySubsystems
@@ -77,44 +77,44 @@ Initialize mono
 Mono path[0] = 'D:/2022.3.60f1/Editor/Data/Managed'
 Mono path[1] = 'D:/2022.3.60f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/2022.3.60f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56588
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/2022.3.60f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004887 seconds.
-- Loaded All Assemblies, in  0.577 seconds
+Registered in 0.007482 seconds.
+- Loaded All Assemblies, in  0.889 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.476 seconds
-Domain Reload Profiling: 1053ms
-	BeginReloadAssembly (181ms)
+- Finished resetting the current domain, in  0.678 seconds
+Domain Reload Profiling: 1567ms
+	BeginReloadAssembly (272ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (59ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (91ms)
-	LoadAllAssembliesAndSetupDomain (229ms)
-		LoadAssemblies (180ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (87ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (130ms)
+	LoadAllAssembliesAndSetupDomain (375ms)
+		LoadAssemblies (270ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (226ms)
-			TypeCache.Refresh (223ms)
-				TypeCache.ScanAssembly (202ms)
+		AnalyzeDomain (371ms)
+			TypeCache.Refresh (368ms)
+				TypeCache.ScanAssembly (335ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (477ms)
+	FinalizeReload (679ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (390ms)
+		SetupLoadedEditorAssemblies (556ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (15ms)
-			SetLoadedEditorAssemblies (14ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (20ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (4ms)
-			ProcessInitializeOnLoadAttributes (276ms)
-			ProcessInitializeOnLoadMethodAttributes (82ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (398ms)
+			ProcessInitializeOnLoadMethodAttributes (111ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -123,50 +123,50 @@ Domain Reload Profiling: 1053ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.188 seconds
+- Loaded All Assemblies, in  1.662 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.439 seconds
-Domain Reload Profiling: 2627ms
-	BeginReloadAssembly (236ms)
+- Finished resetting the current domain, in  1.829 seconds
+Domain Reload Profiling: 3491ms
+	BeginReloadAssembly (340ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (10ms)
+		DisableScriptedObjects (13ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (33ms)
-	RebuildCommonClasses (54ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (65ms)
-	LoadAllAssembliesAndSetupDomain (815ms)
-		LoadAssemblies (553ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (96ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (92ms)
+	LoadAllAssembliesAndSetupDomain (1109ms)
+		LoadAssemblies (770ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (399ms)
-			TypeCache.Refresh (332ms)
-				TypeCache.ScanAssembly (307ms)
-			ScanForSourceGeneratedMonoScriptInfo (46ms)
-			ResolveRequiredComponents (18ms)
-	FinalizeReload (1440ms)
+		AnalyzeDomain (540ms)
+			TypeCache.Refresh (441ms)
+				TypeCache.ScanAssembly (410ms)
+			ScanForSourceGeneratedMonoScriptInfo (68ms)
+			ResolveRequiredComponents (28ms)
+	FinalizeReload (1831ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1170ms)
+		SetupLoadedEditorAssemblies (1362ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (13ms)
-			SetLoadedEditorAssemblies (15ms)
+			SetLoadedEditorAssemblies (13ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (223ms)
-			ProcessInitializeOnLoadAttributes (761ms)
-			ProcessInitializeOnLoadMethodAttributes (155ms)
-			AfterProcessingInitializeOnLoad (4ms)
+			BeforeProcessingInitializeOnLoad (181ms)
+			ProcessInitializeOnLoadAttributes (907ms)
+			ProcessInitializeOnLoadMethodAttributes (241ms)
+			AfterProcessingInitializeOnLoad (6ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (12ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 5.58 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 10.39 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 5656 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 75 unused Assets / (3.5 MB). Loaded Objects now: 6087.
-Memory consumption went from 218.7 MB to 215.2 MB.
-Total: 8.632400 ms (FindLiveObjects: 0.538500 ms CreateObjectMapping: 0.495600 ms MarkObjects: 5.581000 ms  DeleteObjects: 2.014100 ms)
+Unloading 75 unused Assets / (3.6 MB). Loaded Objects now: 6087.
+Memory consumption went from 218.8 MB to 215.2 MB.
+Total: 10.034100 ms (FindLiveObjects: 0.618100 ms CreateObjectMapping: 0.337300 ms MarkObjects: 6.945800 ms  DeleteObjects: 2.131200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -183,120 +183,125 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 3881.734329 seconds.
-  path: Assets/TechnoGami/2d UI button/AllSection/Section03/BlankButton.png
-  artifactKey: Guid(351b4cbab5939a44aac01a42754e41a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/AllSection/Section03/BlankButton.png using Guid(351b4cbab5939a44aac01a42754e41a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+  Time since last request: 1110.829714 seconds.
+  path: Assets/TechnoGami/2d UI button/AllSection/Section01/OptionButton.png
+  artifactKey: Guid(298f54eda3bf2d945998546d60a1095c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TechnoGami/2d UI button/AllSection/Section01/OptionButton.png using Guid(298f54eda3bf2d945998546d60a1095c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3b2833d597f69a891cff318d13084906') in 0.170568 seconds
+ -> (artifact id: '57cfb9a0df1a563732f2535eafd4ba57') in 0.216600 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.243211 seconds.
-  path: Assets/TechnoGami/2d UI button/AllSection/Section02/BlankButton.png
-  artifactKey: Guid(c79649f5ede2efe479a1e54325226dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/AllSection/Section02/BlankButton.png using Guid(c79649f5ede2efe479a1e54325226dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+  Time since last request: 0.000048 seconds.
+  path: Assets/TechnoGami/2d UI button/AllSection/Section01/ExitButton.png
+  artifactKey: Guid(0ce06714099be154f9ddd1700c6a944a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TechnoGami/2d UI button/AllSection/Section01/ExitButton.png using Guid(0ce06714099be154f9ddd1700c6a944a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '0c1217e185469e807e0de92da20a5ef3') in 0.015578 seconds
+ -> (artifact id: '17c0c6ee3fdc694e447c58826c04dd1a') in 0.017479 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
   Time since last request: 0.000030 seconds.
-  path: Assets/TechnoGami/2d UI button/AllSection/Section02/StartButton.png
-  artifactKey: Guid(beadb47bca02ceb459a5e77b2ab52f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/AllSection/Section02/StartButton.png using Guid(beadb47bca02ceb459a5e77b2ab52f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+  path: Assets/TechnoGami/2d UI button/AllSection/Section03/OptionButton.png
+  artifactKey: Guid(d3e215053b766af42b5b481d1f9f0729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TechnoGami/2d UI button/AllSection/Section03/OptionButton.png using Guid(d3e215053b766af42b5b481d1f9f0729) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '60d397d5a8ff016d8c9b66e006a6511a') in 0.015639 seconds
+ -> (artifact id: 'd3fbeb37762bce79f6cca22c699b2cbb') in 0.017064 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/TechnoGami/2d UI button/AllSection/Section02/SettingButton.png
-  artifactKey: Guid(16a9035e313cb3a4e8d75f6efb2c031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/AllSection/Section02/SettingButton.png using Guid(16a9035e313cb3a4e8d75f6efb2c031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TechnoGami/2d UI button/AllSection/Section01/StartButton.png
+  artifactKey: Guid(fddf087ead9010447958b0ccad787990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TechnoGami/2d UI button/AllSection/Section01/StartButton.png using Guid(fddf087ead9010447958b0ccad787990) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '232c8ee05dd69170d406636e45672c91') in 0.020980 seconds
+ -> (artifact id: '7ddc660c3382eb3559a06a7087beced1') in 0.018942 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 35.845720 seconds.
+  Time since last request: 50.924266 seconds.
   path: Assets/TechnoGami/2d UI button/AllSection/Section04/BlankButton.png
   artifactKey: Guid(0e3bb115b578abc4e911686acf85c554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TechnoGami/2d UI button/AllSection/Section04/BlankButton.png using Guid(0e3bb115b578abc4e911686acf85c554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'b63ed63409757e67f7fc0f9c50238510') in 0.015934 seconds
+ -> (artifact id: '6e2e219d8b1b628d3cc5dd96923a0176') in 0.022456 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000070 seconds.
-  path: Assets/TechnoGami/2d UI button/AllSection/Section04/SettingButton.png
-  artifactKey: Guid(54ddf5d5adb0c3f42ab544ed582dc61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/AllSection/Section04/SettingButton.png using Guid(54ddf5d5adb0c3f42ab544ed582dc61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TechnoGami/2d UI button/AllSection/Section04/StartButton.png
+  artifactKey: Guid(b1052106919680b45af6b06cc87db6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TechnoGami/2d UI button/AllSection/Section04/StartButton.png using Guid(b1052106919680b45af6b06cc87db6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'a0ff83afcc6dc4fd2db64b412d5e84e9') in 0.017846 seconds
+ -> (artifact id: '3fff9d1d734cf02252fc9bcbb407a0b4') in 0.019386 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 12.361535 seconds.
+  Time since last request: 4.801600 seconds.
   path: Assets/TechnoGami/2d UI button/AllSection/Section05/BlankButton.png
   artifactKey: Guid(4d350e589a7cb554ca7301a404d9b847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TechnoGami/2d UI button/AllSection/Section05/BlankButton.png using Guid(4d350e589a7cb554ca7301a404d9b847) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '81bad4b13e277a529b7f55e757228901') in 0.017150 seconds
+ -> (artifact id: '07f96aafde28f0f233115a0dc9ec2395') in 0.021390 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000028 seconds.
+  Time since last request: 0.000030 seconds.
   path: Assets/TechnoGami/2d UI button/AllSection/Section05/StartButton.png
   artifactKey: Guid(b5f240c4fe45e9a4eb63aa490a6ed634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TechnoGami/2d UI button/AllSection/Section05/StartButton.png using Guid(b5f240c4fe45e9a4eb63aa490a6ed634) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd37cad73599d1347eaf2fb02506e15f7') in 0.018457 seconds
+ -> (artifact id: '132be4b273c6c96bc94865d77b7e62da') in 0.018371 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 420.922258 seconds.
-  path: Assets/TechnoGami/2d UI button/ExmpleScene/TechnoGami1.unity
-  artifactKey: Guid(d3879a4453c2542459b6b1c5173c90db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/ExmpleScene/TechnoGami1.unity using Guid(d3879a4453c2542459b6b1c5173c90db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '21930561c69b5c69fd4f9f1975db9389') in 0.001531 seconds
+  Time since last request: 32.919622 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4abae2f443d2b72b8a175286dbed9250') in 0.710374 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
+Number of asset objects unloaded after import = 27
 ========================================================================
 Received Import Request.
-  Time since last request: 2.574349 seconds.
-  path: Assets/TechnoGami/2d UI button/ExmpleScene/TechnoGami2.unity
-  artifactKey: Guid(4c50879aee4b9134d96712370f7a6cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/ExmpleScene/TechnoGami2.unity using Guid(4c50879aee4b9134d96712370f7a6cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e2cc1d4c24d00af38bb866d3aac7f6b4') in 0.001058 seconds
+  Time since last request: 205.757610 seconds.
+  path: Assets/Textures/Background.jpg
+  artifactKey: Guid(1cdeb5c069f656746b2c2ce24414ca34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Background.jpg using Guid(1cdeb5c069f656746b2c2ce24414ca34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'eda713bb77d6475a338a2a3fcb7e9718') in 0.020962 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
+Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 1.118215 seconds.
-  path: Assets/TechnoGami/2d UI button/Prefabs/section01.prefab
-  artifactKey: Guid(e4a801aecf923d14ea1fe6e7becfe290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/Prefabs/section01.prefab using Guid(e4a801aecf923d14ea1fe6e7becfe290) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8178d7f88fb68089f0e2e6e57315bb05') in 0.024983 seconds
+  Time since last request: 0.000042 seconds.
+  path: Assets/Textures/wp4835209-exploding-kittens-wallpapers.jpg
+  artifactKey: Guid(eb59215533fd7f34ebc50741afcac020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/wp4835209-exploding-kittens-wallpapers.jpg using Guid(eb59215533fd7f34ebc50741afcac020) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6f816499c9b51b4a471d26de9ad557c3') in 0.024031 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 34
+Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/TechnoGami/2d UI button/Prefabs/section05.prefab
-  artifactKey: Guid(594c9b10d566a8f40ae9c451709724d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TechnoGami/2d UI button/Prefabs/section05.prefab using Guid(594c9b10d566a8f40ae9c451709724d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'a0e6c6c8027fc4b5e0327a40c5582ec0') in 0.005004 seconds
+  Time since last request: 0.000054 seconds.
+  path: Assets/Textures/red.jpg
+  artifactKey: Guid(990d84a58d007a542a26cf82674c3078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/red.jpg using Guid(990d84a58d007a542a26cf82674c3078) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'dde664e5c8a912cdd457c6ec7306f5c8') in 0.028608 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 34
+Number of asset objects unloaded after import = 3
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
 AssetImportWorker is now disconnected from the server
