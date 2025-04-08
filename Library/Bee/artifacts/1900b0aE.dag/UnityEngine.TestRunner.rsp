@@ -119,6 +119,13 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:DOTWEEN
+-define:PHOTON_UNITY_NETWORKING
+-define:PUN_2_0_OR_NEWER
+-define:PUN_2_OR_NEWER
+-define:PUN_2_19_OR_NEWER
+-define:FUSION_LOGLEVEL_INFO
+-define:FUSION_WEAVER
+-define:FUSION2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"D:/Apps/Editor/2022.3.60f1/Editor/Data/Managed/UnityEditor.Graphs.dll"

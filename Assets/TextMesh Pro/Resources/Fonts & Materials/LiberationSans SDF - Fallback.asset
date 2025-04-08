@@ -196,45 +196,18 @@ MonoBehaviour:
     m_StrikethroughOffset: 18
     m_StrikethroughThickness: 6.298828
     m_TabWidth: 24
-  m_GlyphTable:
-  - m_Index: 1676
-    m_Metrics:
-      m_Width: 57
-      m_Height: 77
-      m_HorizontalBearingX: 0
-      m_HorizontalBearingY: 77
-      m_HorizontalAdvance: 57
-    m_GlyphRect:
-      m_X: 10
-      m_Y: 10
-      m_Width: 57
-      m_Height: 77
-    m_Scale: 1
-    m_AtlasIndex: 0
-    m_ClassDefinitionType: 0
-  m_CharacterTable:
-  - m_ElementType: 1
-    m_Unicode: 7842
-    m_GlyphIndex: 1676
-    m_Scale: 1
+  m_GlyphTable: []
+  m_CharacterTable: []
   m_AtlasTextures:
   - {fileID: 28268798066460806}
   m_AtlasTextureIndex: 0
   m_IsMultiAtlasTexturesEnabled: 1
   m_ClearDynamicDataOnBuild: 1
-  m_UsedGlyphRects:
-  - m_X: 0
-    m_Y: 0
-    m_Width: 76
-    m_Height: 96
+  m_UsedGlyphRects: []
   m_FreeGlyphRects:
   - m_X: 0
-    m_Y: 96
-    m_Width: 511
-    m_Height: 415
-  - m_X: 76
     m_Y: 0
-    m_Width: 435
+    m_Width: 511
     m_Height: 511
   m_fontInfo:
     Name: Liberation Sans
@@ -349,9 +322,9 @@ Texture2D:
   m_DownscaleFallback: 0
   m_IsAlphaChannelOptional: 0
   serializedVersion: 2
-  m_Width: 1
-  m_Height: 1
-  m_CompleteImageSize: 1
+  m_Width: 0
+  m_Height: 0
+  m_CompleteImageSize: 0
   m_MipsStripped: 0
   m_TextureFormat: 1
   m_MipCount: 1
@@ -376,8 +349,8 @@ Texture2D:
   m_LightmapFormat: 0
   m_ColorSpace: 0
   m_PlatformBlob: 
-  image data: 1
-  _typelessdata: 00
+  image data: 0
+  _typelessdata: 
   m_StreamData:
     serializedVersion: 2
     offset: 0

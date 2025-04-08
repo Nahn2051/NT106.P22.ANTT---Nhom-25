@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|d:\\study\\code\\projects\\da_ltmcb\\explodingkittens\\assets\\scripts\\ingamescripts\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamescripts\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\ingamescripts\\card\\playcardzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamescripts\\card\\playcardzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\ingamescripts\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamescripts\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\ingamescripts\\card\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamescripts\\card\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\ingamescripts\\cardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamescripts\\cardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\ingamescripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamescripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\DeckManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InGameScripts\\DeckManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\PlayerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InGameScripts\\PlayerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\assets\\scripts\\ingamescripts\\card\\cardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611211D5-ECE6-5B3C-FDCC-8938B160D508}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingamescripts\\card\\cardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +30,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\PLayer\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\PLayer\\PlayerUI.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\PLayer\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\PLayer\\PlayerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:51:21.829Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CardManager.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\CardManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\CardManager.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\CardManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\CardManager.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwE4AAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\PlayerUI.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\PlayerUI.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:08:06.671Z",
+              "WhenOpened": "2025-04-07T13:49:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardHolder.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\Card\\CardHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\Card\\CardHolder.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\Card\\CardHolder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\Card\\CardHolder.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwI4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:47:38.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeckManager.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\DeckManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\DeckManager.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\DeckManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\DeckManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBoAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:00:26.841Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CardData.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\CardData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\CardData.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\CardData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\CardData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CardManager.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\Card\\CardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\Card\\CardManager.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\Card\\CardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\Card\\CardManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowGcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:00:24.057Z"
+              "WhenOpened": "2025-04-07T13:47:36.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CardHolder.cs",
-              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\CardHolder.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\CardHolder.cs",
-              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\CardHolder.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\CardHolder.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAADwv5cAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PlayCardZone.cs",
+              "DocumentMoniker": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\Card\\PlayCardZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameScripts\\Card\\PlayCardZone.cs",
+              "ToolTip": "D:\\Study\\Code\\Projects\\DA_LTMCB\\ExplodingKittens\\Assets\\Scripts\\InGameScripts\\Card\\PlayCardZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGameScripts\\Card\\PlayCardZone.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T17:58:30.639Z"
+              "WhenOpened": "2025-04-07T10:16:24.464Z",
+              "EditorCaption": ""
             }
           ]
         }
